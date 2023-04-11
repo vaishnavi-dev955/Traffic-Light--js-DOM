@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.card-one {
+    background-color: #86d2f2;
+    height: 100vh;
+}
+
+.heading {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding-top: 20px;
+}
+
+.buttons-container1 {
+    background-color: white;
+    height: 200px;
+    width: 120px;
+    margin-left: 70px;
+    background-color: #86d2f2;
+}
+
+.card-two {
+    height: 50vh;
+    width: 70vw;
+    background-color: #86d2f2;
+    margin-left: 100px;
+    margin-top: 100px;
+    display:flex;
+    text-align: center;
+}
+
+.custom-button {
+    height: 40px;
+    width: 90px;
+    background-color: #1f1d41;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Roboto";
+    color: #ffffff;
+    border: 0px solid;
+    border-radius: 10px;
+    margin-top: 33px;
+}
+
+.lights-container {
+    background-color: #1f1d41;
+    height: 250px;
+    width: 90px;
+    border-radius: 30px;
+}
+
+.light-container {
+    background-color: #4b5069;
+    height: 55px;
+    width: 55px;
+    border: 0px solid;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 18px;
+}
